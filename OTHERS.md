@@ -20,5 +20,5 @@ d45fd1090c84fa0b92cc4a827bcdb6a2426035fd2629965395541e
 e6b9e4c8ce0cd44ae16dd3569fefe527dc451d2104dd1677683626  
 
 - __SUBLIM TEXT 4 :__  
-Follow the steps indicated in the .zip Readme :
+Follow the steps indicated in the .zip Readme :  
 https://cdn.discordapp.com/attachments/974782492831809606/993196714397810758/Sublime_Text_4_Build_4126_x64.zip
